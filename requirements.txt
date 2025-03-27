@@ -1,0 +1,8 @@
+flask
+requests
+pandas
+python-docx
+pdf2image
+pillow
+werkzeug
+
